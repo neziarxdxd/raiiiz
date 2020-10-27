@@ -11,7 +11,7 @@
 <!--  - 📫 How to reach me -->
 
 ### Contribution and Stats
-![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=react)
+![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=default)
 
 ### Top Programming Language 
 
