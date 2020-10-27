@@ -10,6 +10,9 @@
 - 😄 Pronouns: He/His/Him
 <!--  - 📫 How to reach me -->
 
+### Contribution and Stats
 ![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=react)
 
+### Top Programming Language 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenraiching&layout=compact)](https://github.com/zenraiching/github-readme-stats)
