@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on API for web dev tutorials
 - 🤔 I’m looking for help with How to be come more technology driven
 - 💬 Ask me about Life as a student and learning programming 
-<!--  - 📫 How to reach me -->
 - 😄 Pronouns: He/His/Him
+<!--  - 📫 How to reach me -->
+
 
