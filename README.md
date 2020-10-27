@@ -16,3 +16,12 @@
 ### Top Programming Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenraiching&layout=compact)](https://github.com/zenraiching/github-readme-stats)
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java 
+- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; Visual Studio code | Netbeans | Git
+- 🖥 &nbsp; Microsoft Powerpoint
