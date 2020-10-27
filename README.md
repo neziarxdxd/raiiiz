@@ -10,4 +10,6 @@
 - 😄 Pronouns: He/His/Him
 <!--  - 📫 How to reach me -->
 
+[Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=react)
+
 
