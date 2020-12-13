@@ -9,6 +9,11 @@
 - 😄 Pronouns: He/His/Him
 <!--  - 📫 How to reach me -->
 
+### Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Contribution and Stats
 ![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=default)
 
