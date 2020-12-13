@@ -11,7 +11,7 @@
 
 ### Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenraiching&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zenraiching&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Contribution and Stats
