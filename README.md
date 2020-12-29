@@ -24,8 +24,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | Java | Dart | PHP
+- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | PHP | NodeJS
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Visual Studio code | Netbeans | Git
 - 🖥 &nbsp; Microsoft Powerpoint
