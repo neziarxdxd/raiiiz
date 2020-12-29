@@ -16,11 +16,11 @@
 
 ### Contribution and Stats
 ![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=zenraiching&show_icons=true&theme=default)
-
+<!--
 ### Top Programming Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenraiching&layout=compact)](https://github.com/zenraiching/github-readme-stats)
-
+-->
 
 <h3>🛠 Tech Stack</h3>
 
