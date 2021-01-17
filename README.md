@@ -1,4 +1,3 @@
-# Hi there I am Raizen 👋
 
 
 - 🔭 I’m currently working on as a student of City College of Angeles
