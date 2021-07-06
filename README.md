@@ -30,10 +30,6 @@
 
 # Mwehehe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/walangusername.png" alt="TryHackMe">
 
-
-![git](https://tryhackme-badges.s3.amazonaws.com/walangusername.png)
-<script src="https://tryhackme.com/badge/506062"></script>
 
 
