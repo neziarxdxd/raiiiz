@@ -1,6 +1,6 @@
-<!---
-# Hi I am raiiiz👋
 
+# Hi I am raiiiz👋
+<!---
 - 🔭 I’m currently working on as a student of City College of Angeles
 - 🌱 I’m currently learning Web Development 
 - 😄 Pronouns: He/His/Him
