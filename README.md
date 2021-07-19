@@ -11,6 +11,9 @@
 ### Contribution and Stats
 ![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=raiiiz&show_icons=true&theme=default)
 
+### STREAK!!!
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raiiiz&theme=dracula)](https://git.io/streak-stats)
+
 ### Top Programming Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=compact)](https://github.com/zenraiching/github-readme-stats)
