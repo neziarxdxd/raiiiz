@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on as a student of City College of Angeles
 - 🌱 I’m currently learning Web Development 
 - 😄 Pronouns: He/His/Him
-- 📫 How to reach me: 0947-355-8280 telegram
 
 --->
+- 📫 How to reach me: 0947-355-8280 telegram
+
 
 ### Contribution and Stats
 ![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=raiiiz&show_icons=true&theme=default)
