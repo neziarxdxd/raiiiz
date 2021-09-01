@@ -10,14 +10,14 @@
 
 
 ### Contribution and Stats
-![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=raiiiz&show_icons=true&theme=default)
+![Raizen's github stats](https://github-readme-stats.vercel.app/api?username=raiiiz&show_icons=true&theme=dark)
 
 ### STREAK!!!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raiiiz&theme=compact)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raiiiz&theme=dark)](https://git.io/streak-stats)
 
 ### Top Programming Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=compact)](https://github.com/zenraiching/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=dark)](https://github.com/zenraiching/github-readme-stats)
 
 
 - 👯 I’m looking to collaborate on API for web dev tutorials
