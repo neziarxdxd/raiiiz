@@ -32,7 +32,9 @@
 - 🖥 &nbsp; Microsoft Powerpoint
 
 
-# Mwehehe
+# GOALS
+
+[ ] - Build my new portfolio 
 
 
 
