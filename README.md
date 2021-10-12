@@ -34,8 +34,6 @@
 
 # GOALS
 
-[ ] - Build my new portfolio 
-
 
 
 
