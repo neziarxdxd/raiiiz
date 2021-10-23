@@ -1,5 +1,5 @@
 
-# Hi I am raiiiz👋
+# Hi I am rai
 
 - 🔭 I’m currently working on as a student of City College of Angeles
 - 🌱 I’m currently learning Web Development 
