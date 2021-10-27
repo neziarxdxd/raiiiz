@@ -1,31 +1,31 @@
 1st year
-1. Arduino
-2. Codeigniter
-3. Workshops
-4. Programmer Ako page
-5. Join in other orgs
-6. Powerpoint designs
-7. Robotics
-8. Code wars
-9. Microsoft visual studio
+- Arduino
+- Codeigniter
+- Workshops
+- Programmer Ako page
+- Join in other orgs
+- Powerpoint designs
+- Robotics
+- Code wars
+- Microsoft visual studio
 
 2 nd Year
 
-12. Toll Gate
-13. Firebase and realtime database
-14. ComSoc - staff member - designer
-15. Software Engineering - agile
-16. Ui/Ux design
-17. Google Developers Group
-18. Google technology tools
-19. Other Technology page
-20. NodeJS
-21. Attempt to create chatbot [x]
-22. Attempt to learn react [x]
-23. Bootstrap
-24. Capture the Flag, Cyber security
-25. Java Certification
-26. Python Event management system
+- Toll Gate
+- Firebase and realtime database
+- ComSoc - staff member - designer
+- Software Engineering - agile
+- Ui/Ux design
+- Google Developers Group
+- Google technology tools
+- Other Technology page
+- NodeJS
+- Attempt to create chatbot [x]
+- Attempt to learn react [x]
+- Bootstrap
+- Capture the Flag, Cyber security
+- Java Certification
+- Python Event management system
      - QR scanner
      - PDF conversion
      - Database
