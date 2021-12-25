@@ -1,7 +1,8 @@
 
 # Hi I am rai
-
-![Raizen's github stats](https://raw.githubusercontent.com/raiiiz/raiiiz/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiiiz/raiiiz/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 - 🔭 I’m currently working on as a student of City College of Angeles
