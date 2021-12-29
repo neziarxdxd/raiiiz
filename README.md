@@ -26,11 +26,7 @@
 - 💬 Ask me about Life as a student and learning programming 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Dart | PHP
-- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | PHP | NodeJS
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Visual Studio code | Netbeans | Git
-- 🖥 &nbsp; Microsoft Powerpoint
+
 
 <img alt="raiiiz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raiiiz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
