@@ -14,7 +14,7 @@
 
 ### Top Programming Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=dark)](https://github.com/zenraiching/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=dark)](https://github.com/raiiiz/github-readme-stats)
 
 
 - 👯 I’m looking to collaborate on API for web dev tutorials
