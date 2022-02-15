@@ -1,5 +1,5 @@
 
-# Hi I am rai
+# Hi I am Rai
 
 Computer Science student with a demonstrated history of working with desktop applications, mobile applications, 
 simple web API, and websites. Building applications with a strategic and organized structure. I am acquiring 
@@ -22,7 +22,7 @@ whole existence, turning the ideas and solutions into readable code and making i
 - 👯 I’m looking to collaborate on API for web dev tutorials
 - 🤔 I’m looking for help with How to be come more technology driven
 - 💬 Ask me about Life as a student and learning programming 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Activity Graph</h3>
 
 
 
