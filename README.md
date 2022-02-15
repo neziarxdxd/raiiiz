@@ -1,8 +1,10 @@
 
 # Hi I am rai
 
-- 🔭 I’m currently working on as a student of City College of Angeles
-- 🌱 I’m currently learning Web Development 
+Computer Science student with a demonstrated history of working with desktop applications, mobile applications, 
+simple web API, and websites. Building applications with a strategic and organized structure. I am acquiring 
+hands-on experience With Python, Java, Dart, and JavaScript frameworks. I let my imagination play with my 
+whole existence, turning the ideas and solutions into readable code and making it possible.
 
 
 
