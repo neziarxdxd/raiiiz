@@ -19,9 +19,7 @@ whole existence, turning the ideas and solutions into readable code and making i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiiiz&layout=dark)](https://github.com/raiiiz/github-readme-stats)
 
 
-- 👯 I’m looking to collaborate on API for web dev tutorials
-- 🤔 I’m looking for help with How to be come more technology driven
-- 💬 Ask me about Life as a student and learning programming 
+
 <h3>🛠 Activity Graph</h3>
 
 
